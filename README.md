@@ -1,20 +1,10 @@
-#  TITLE
-DESCRIPTION ...
-
-## 🧰 Example:
-```swift
-```
-
-## ℹ️  GETTING STARTED
-### PREREQUISITES 
-- Swift 4+
-- Xcode 10+
+#  Pinch
 
 ### INSTALATION
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clone https://github.com/PaoloProdossimoLopes/swiftui-pinch-app-masterclass.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
